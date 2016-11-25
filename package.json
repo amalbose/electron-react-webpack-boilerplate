@@ -1,15 +1,14 @@
 {
-  "name": "react-trial",
+  "name": "electron-react-boilerplate",
   "version": "1.0.0",
-  "description": "",
+  "description": "A boilerplate app for electron using react and webpack",
   "main": "main.js",
   "scripts": {
     "start": "electron .",
-    "build": "webpack --watch",
-    "buildn": "webpack -d"
+    "build": "webpack -d --watch"
   },
   "author": "amalbose@gmail.com",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "react": "^15.4.1",
     "react-dom": "^15.4.1"
