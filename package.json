@@ -7,7 +7,7 @@
     "start": "electron .",
     "build": "webpack -d --watch"
   },
-  "author": "amalbose@gmail.com",
+  "author": "Amal Bose (amalbose@gmail.com)",
   "license": "MIT",
   "dependencies": {
     "react": "^15.4.1",
